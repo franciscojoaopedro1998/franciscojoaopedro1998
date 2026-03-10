@@ -1,16 +1,31 @@
-## Hi there 👋
+# Francisco Ngunga
 
-<!--
-**franciscojoaopedro1998/franciscojoaopedro1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | Backend & Systems
 
-Here are some ideas to get you started:
+I am a developer focused on building high-performance systems, APIs and infrastructure tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently interested in:
+- Web frameworks
+- Systems programming
+- Performance optimization
+- API architecture
+
+## Tech Stack
+
+Rust
+TypeScript
+Node.js
+Docker
+PostgreSQL
+Linux
+
+## Projects
+
+- Rapina – High performance web framework
+- Yennda – Tourism platform for Angola
+- API performance benchmarks
+
+## Contact
+
+LinkedIn: [(link)](https://www.linkedin.com/in/francisco-jo%C3%A3o-pedro-a7812b1b8/)
+Email: franciscojoaopedro1998@gmail.com
